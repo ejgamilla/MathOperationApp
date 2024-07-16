@@ -1,0 +1,15 @@
+C:\Users\rowen\Downloads\MathApp\bin\Debug\net5.0\MathApp.exe
+C:\Users\rowen\Downloads\MathApp\bin\Debug\net5.0\MathApp.deps.json
+C:\Users\rowen\Downloads\MathApp\bin\Debug\net5.0\MathApp.runtimeconfig.json
+C:\Users\rowen\Downloads\MathApp\bin\Debug\net5.0\MathApp.runtimeconfig.dev.json
+C:\Users\rowen\Downloads\MathApp\bin\Debug\net5.0\MathApp.dll
+C:\Users\rowen\Downloads\MathApp\bin\Debug\net5.0\MathApp.pdb
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\MathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\MathApp.AssemblyInfoInputs.cache
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\MathApp.AssemblyInfo.cs
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\MathApp.dll
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\refint\MathApp.dll
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\MathApp.pdb
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\MathApp.genruntimeconfig.cache
+C:\Users\rowen\Downloads\MathApp\obj\Debug\net5.0\ref\MathApp.dll
